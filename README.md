@@ -4,6 +4,7 @@ i'm a computer science student with a statistics minor at uc santa cruz, explori
 
 
 𝜗ৎ: learn more about me [here](https://txti.illumin.us/jamuchan)! 
+
 𝜗ৎ: feel free to reach out thru [email](mailto:jamuchan@ucsc.edu) or connect with me on [linkedin](https://www.linkedin.com/in/jasmchanoo01/)
 
 ## tools
