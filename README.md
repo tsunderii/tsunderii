@@ -3,7 +3,7 @@
 i'm a computer science student +statistics minor at uc santa cruz, exploring applied ai, machine learning, and human-computer interaction! currently, i'm building and testing ai prototypes, mentoring students in generative ai, and exploring how user research can shape more thoughtful technology
 
 
-𝜗ৎ learn more about me [here](https://txti.illumin.us/jamuchan)& feel free to reach out thru [email](mailto:jamuchan@ucsc.edu) or connect with me on [linkedin](https://www.linkedin.com/in/jasmchanoo01/)
+𝜗ৎ learn more about me [here](https://txti.illumin.us/jamuchan) & feel free to reach out thru [email](mailto:jamuchan@ucsc.edu) or connect with me on [linkedin](https://www.linkedin.com/in/jasmchanoo01/)! 
 
 ## tools
 
