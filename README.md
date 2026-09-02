@@ -8,6 +8,11 @@ rn i am:
 - 🛠️ building prototypes with python, streamlit, flask, and llm apis
 - 🌱 mentoring students through generative ai projects + workflows
 
+say hi! → [email](mailto:jamuchan@ucsc.edu) · [linkedin](https://www.linkedin.com/in/jasminchann/)
+
+more things → [mini-portfolio](https://txti.illumin.us/jamuchan)
+
+
 ## tools
 
 python · streamlit · scikit-learn · flask · rag · llms
@@ -17,7 +22,5 @@ javascript · html/css · c · c++ · java
 figma · framer · canva
 
 
-more things → [mini-portfolio](https://txti.illumin.us/jamuchan)
 
-say hi! → [email](mailto:jamuchan@ucsc.edu) · [linkedin](https://www.linkedin.com/in/jasminchann/)
 
