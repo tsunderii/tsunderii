@@ -1,12 +1,19 @@
 # hi! i'm jasmin! 🎋
 
-i'm a computer science student +statistics minor at uc santa cruz, exploring applied ai, machine learning, and human-computer interaction! currently, i'm building and testing ai prototypes, mentoring students in generative ai, and exploring how user research can shape more thoughtful technology
+currently i'm an undergrad computer science  + statistics student at uc santa cruz! i like making things somewhere between ai, people, and the internet — usually prototypes, small experiments, or tools inspired by things i wish worked a little differently.
 
-
-𝜗ৎ learn more about me [here](https://txti.illumin.us/jamuchan) & feel free to reach out thru [email](mailto:jamuchan@ucsc.edu) or connect with me on [linkedin](https://www.linkedin.com/in/jasmchanoo01/)! 
+rn i am:
+- 🤖 experimenting with rag, llm agents, and ai evaluation
+- 🧠 exploring machine learning + human-centered ai
+- 🛠️ building prototypes with python, streamlit, flask, and llm apis
+- 🌱 mentoring students through generative ai projects + workflows
 
 ## tools
 
-**languages:** Python • C • C++ • Java • JavaScript • HTML/CSS  
-**ai + development:** Streamlit • Google Colab • Gemini API • Claude Code • OpenWebUI • Google Antigravity • RAG  
-**design:** Figma • Canva • WordPress • Framer
+python · streamlit · scikit-learn · flask · rag · llms
+javascript · html/css · c · c++ · java
+figma · framer · canva
+
+more things → [mini-portfolio](https://txti.illumin.us/jamuchan)
+say hi! → [email](mailto:jamuchan@ucsc.edu) · [linkedin](https://www.linkedin.com/in/jasminchann/)
+
