@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<p><strong> <h3> hi! i'm jasmin! 🎋 </h3></strong></p>
+# hi! i'm jasmin! 🎋
 computer science + statistics @ uc santa cruz
 
 </div>
