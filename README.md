@@ -1,26 +1,70 @@
-# hi! i'm jasmin! 🎋
 
-currently i'm an undergrad computer science  + statistics student at uc santa cruz! i like making things somewhere between ai, people, and the internet — usually prototypes, small experiments, or tools inspired by things i wish worked a little differently.
+<div align="center">
 
-rn i am:
-- 🤖 experimenting with rag, llm agents, and ai evaluation
-- 🧠 exploring machine learning + human-centered ai
-- 🛠️ building prototypes with python, streamlit, flask, and llm apis
-- 🌱 mentoring students through generative ai projects + workflows
+<p><strong> <h3> hi! i'm jasmin! 🎋 </h3></strong></p>
+computer science + statistics @ uc santa cruz
 
-say hi! → [email](mailto:jamuchan@ucsc.edu) · [linkedin](https://www.linkedin.com/in/jasminchann/)
+</div>
 
-more things → [mini-portfolio](https://txti.illumin.us/jamuchan)
+<br>
 
+i like making things somewhere between technology, design, and human behavior — usually experimenting with ai, building tools, or figuring out how things could work a little differently.
 
-## tools
+↳ <b>interests:</b> ml, ai, hci, product development (more to come!)</sub>
 
-python · streamlit · scikit-learn · flask · rag · llms
+---
 
-javascript · html/css · c · c++ · java
+### 01 / lately 🎐 ⊹ ࣪ ˖
 
-figma · framer · canva
+↗ building interactive web experiences to make research more accessible
 
+↗ leading product design + prototyping for nonprofit projects
 
+↗ developing full-stack applications for community-focused organizations
 
+↗ experimenting with ml pipelines, data analysis, and model evaluation
 
+---
+
+### 02 / tools ⏱ 
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>LANGUAGES</b></sub>
+
+python · javascript · typescript · c · c++ · java · html/css
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>FRAMEWORKS & LIBRARIES</b></sub>
+
+react · next.js · streamlit · flask · scikit-learn · pandas
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<sub><b>AI / ML</b></sub>
+
+llms · rag · ai agents · model evaluation · ml pipelines
+
+</td>
+<td valign="top">
+
+<sub><b>DESIGN & TOOLS</b></sub>
+
+figma · framer · git · github · canva
+
+</td>
+</tr>
+</table>
+
+---
+
+### 03 / elsewhere ☁️ 
+
+[website](https://txti.illumin.us/jamuchan) / [linkedin](https://www.linkedin.com/in/jasminchann/) / [email](mailto:jamuchan@ucsc.edu)
